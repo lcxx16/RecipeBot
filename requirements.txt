@@ -1,0 +1,5 @@
+Flask==1.1.1
+line-bot-sdk==1.16.0
+psycopg2==2.8.4
+SQLAlchemy==1.3.9
+pykakasi
